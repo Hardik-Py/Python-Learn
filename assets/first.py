@@ -15,8 +15,8 @@ def bubbleSort(arr):
                 arr[j], arr[j+1] = arr[j+1], arr[j] 
   
 # Driver code to test above 
-arr = [64, 34, 25, 12, 22, 11, 90] 
-  
+arr = [32,25,1,2,12,14,82,]
+
 bubbleSort(arr) 
   
 print ("Sorted array is:") 
